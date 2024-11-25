@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **erp systems**
 
-- 🌱 I’m currently learning **Typescript and React**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tapdiq49](https://github.com/tapdiq49)
 
-- 💬 Ask me about **HTML5, CSS, Javascript, Jquery, AJAX, C#, Asp.net and etc.**
+- 💬 Ask me about **HTML5, CSS, Javascript, TypeScript, Angular, Jquery, AJAX, C#, Asp.net and etc.**
 
 - 📫 How to reach me **alishovtapdiq@gmail.com**
 
