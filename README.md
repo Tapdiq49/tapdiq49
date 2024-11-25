@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapdiq Alishov</h1>
-<h3 align="center">I'm self-motivated and constantly experimenting with new technologies and techniques. React is my everything</h3>
+<h3 align="center">I'm self-motivated and constantly experimenting with new technologies and techniques.</h3>
 <img align="right" alt="Coding" width="399" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 - 🔭 I’m currently working on **erp systems**
